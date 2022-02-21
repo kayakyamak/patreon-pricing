@@ -1,0 +1,8 @@
+pytest
+pylint
+black
+pytest-cov
+nbqa
+numpy
+pandas
+patreon
